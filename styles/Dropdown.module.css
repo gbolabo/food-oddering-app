@@ -1,0 +1,29 @@
+.Dropdown{
+    width: 200px;
+    position:absolute;
+    top:23px;
+    list-style: none;
+    text-align: start;
+    right:0px;
+    background: white;
+}
+
+.Dropdown li{
+    background: white;
+    cursor: pointer;
+    color: #d1411e;
+    font-size: 13px;
+}
+
+.Dropdownclicked{
+
+    display: none;
+}
+
+  
+  .listItem {
+    margin: 20px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
